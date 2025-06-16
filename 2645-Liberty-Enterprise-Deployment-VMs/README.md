@@ -725,7 +725,7 @@ perform the following tasks:
 
   - **Create a Plug-in configuration file for the HTTP Server**
 
-    The **dynamicRouting setu** command generates the **keystore** and
+    The **dynamicRouting setup** command generates the **keystore** and
  **plug-in configuration files** required for dynamic routing.
 
   - **Establish a secure connection between the plug-in and the
