@@ -1,6 +1,6 @@
 ![](./images/media/2645-header.png)
 
-<!-- <img src="./images/media/2645-header.png" width="1500" height="600"> --> 
+<!-- <img src="./images/media/2645-header-dark.png" width="1500" height="600"> --> 
 
 # Lab 2645: 
 
