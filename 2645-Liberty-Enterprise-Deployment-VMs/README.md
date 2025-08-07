@@ -1,5 +1,7 @@
 ![](./images/media/2645-header.png)
 
+<img src="./images/media/2645-header.png" width="500" height="600"> 
+
 # Lab 2645: 
 
 ## Recommended practices for WebSphere Liberty deployments and zero-migration upgrades on VMs
