@@ -1,3 +1,5 @@
+![](./images/media/2645-header.png)
+
 # Lab 2645: 
 
 ## Recommended practices for WebSphere Liberty deployments and zero-migration upgrades on VMs
