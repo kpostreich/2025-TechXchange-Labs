@@ -1,4 +1,4 @@
-![](./images/media/2645-header-dark.png)
+![](./images/media/2645-header-1.png)
 
 <!-- <img src="./images/media/2645-header-dark.png" width="1500" height="600"> --> 
 
